@@ -44,8 +44,5 @@ Start
  npm run dev
 ```
     
-## Note
 
-Demo link was not possible here 
-Since I'm not storing the actual video in MongoDB
 
