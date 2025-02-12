@@ -19,7 +19,7 @@ Felicitas is a Online Video Streaming and Social Media platform inspired from Yo
 
 **Client:** ReactJS, Redux,
 
-**Server:** NodeJS, ExpressJS
+**Server:** NodeJS, Express.js
 
 **Database:** MongoDB Atlas
 
